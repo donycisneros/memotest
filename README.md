@@ -1,4 +1,4 @@
-# memotest-vue
+# Memotest
 
 ## Project setup
 ```
